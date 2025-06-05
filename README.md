@@ -4,7 +4,7 @@
 
 The purpose of this project is to simulate dislocation/void interactions using atomistic simulations in random Al<sub>0.3</sub>CoCrFeNi multi-principal element alloy (MPEA). To provide references, the dislocation/void interactions are also done in Ni.
 
-Please read [these journal articles](https://drive.google.com/drive/folders/1Pfg0ZztTd7QkhRMLABwpwrZFWDxasoBQ?usp=sharing) to understand dislocatino/void interactions and the effects of void on mechanical properties in MPEAs and pure metals using atomistic simulations.
+Please read [these journal articles](https://drive.google.com/drive/folders/1Pfg0ZztTd7QkhRMLABwpwrZFWDxasoBQ?usp=sharing) to understand dislocatino/void interactions and the effects of voids on mechanical properties in MPEAs and pure metals using atomistic simulations.
 
 ## LAMMPS
 
